@@ -20,11 +20,19 @@ img{
   }
 
   iframe{
-      align-content: center;
+      text-align: center;
   }
 
   @media only screen and (max-width: 600px) {
       body{
           background-color: aquamarine
       }
+  }
+
+  form{
+      text-align: center;
+  }
+
+  .container{
+      text-align: center;
   }
