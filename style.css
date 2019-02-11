@@ -2,3 +2,29 @@ img{
     width: 500px;
     height: 300px
 }
+*{
+    padding: 10px;
+    margin: 0;
+}
+
+.flex-container {
+    display: flex;
+    background-color: rgb(220, 242, 224);
+  }
+  
+.flex-container > div {
+    background-color: rgb(233, 232, 222);
+    margin: 40px;
+    padding: 20px;
+    font-size: 30px;
+  }
+
+  iframe{
+      align-content: center;
+  }
+
+  @media only screen and (max-width: 600px) {
+      body{
+          background-color: aquamarine
+      }
+  }
