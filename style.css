@@ -1,10 +1,11 @@
 img{
-    width: 500px;
-    height: 300px
+    width: 600px;
+    height: 400px;
 }
 *{
     padding: 10px;
     margin: 0;
+    
 }
 
 .flex-container {
@@ -36,3 +37,13 @@ img{
   .container{
       text-align: center;
   }
+
+  h1{
+      text-align: center;
+      
+  }
+
+  
+p{
+    text-align: left;
+}
